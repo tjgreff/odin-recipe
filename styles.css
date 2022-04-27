@@ -1,0 +1,97 @@
+* {
+    font-family: "Arial", sans-serif;
+}
+
+.header {
+    background-color: #1f2937;
+    color: #f9faf8;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 100px;
+    margin: -10px -10px 10px;
+}
+
+.header-left {
+    font-size: 24px;
+}
+
+.header-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 16px;
+    text-decoration: none;
+}
+
+.logo {
+    font-style: bold;
+    font-size: 32px;
+}
+
+.body {
+
+}
+
+.footer {
+    
+}
+
+.header a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Recipe Pages */
+
+.main-header {
+    text-align: center;
+    font-size: 48px;
+    color: blue;
+}
+
+.recipe-list, .a {
+    font-size: 24px;
+    color: green;
+}
+
+.recipe-header {
+    color: blue;
+    text-align: center;
+    font-size: 40px;
+}
+
+.recipe-image {
+    width: auto;
+    height: 300px;
+}
+
+.ingredient-description {
+    font-style: italic;
+}
+
+.ingredient-header {
+    font-size: 32px;
+    font-weight: bold;
+    color: lightblue;
+}
+
+.ingredient-list, .li {
+    font-size: 18px;
+}
+
+.step-header {
+    font-size: 32px;
+    font-weight: bold;
+    color: darkblue;
+}
+
+.step-list, .li {
+    font-size: 18px;
+}

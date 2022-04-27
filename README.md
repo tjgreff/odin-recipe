@@ -38,4 +38,4 @@ The recipe page should have the following content:
 
 ## Issues Faced
 
-...
+- N/A
